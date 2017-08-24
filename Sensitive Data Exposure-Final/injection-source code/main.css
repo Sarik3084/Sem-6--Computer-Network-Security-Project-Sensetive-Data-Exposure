@@ -1,0 +1,328 @@
+.maintitle {
+   font-family: "Aperçu" ,Gotham;
+   color: white;
+   font-size: 40px;  
+     
+   }
+
+ .all{
+    background-image: url("1.jpg");
+    background-size: cover;
+    padding:40px;
+     }
+
+  .aboutus{
+     border: 0.25px solid white;
+    border-radius: 5%;
+    color:white;
+    position:right;
+    left:350px;
+    font-size:20px;
+    }
+
+ #au{
+    font-family: verdana;
+    font-size: 40px;
+    color:white;
+    position:relative;
+    left: 20px;
+	bottom:100px;
+}
+.contactus{
+    border: 0.25px solid white;
+    border-radius: 5%;
+    color:white;
+    position:right;
+    left:400px;
+    font-size:20px;
+    }
+
+ #cu{
+    font-family: verdana;
+    font-size: 40px;
+    color:white;
+}
+
+   .rform{
+    border: 0.25px solid white;
+    border-radius: 2%;
+    color:white;
+    font-size:30px;
+    margin-left: 100px;
+    }
+  
+   .rrform{
+     margin-right: 600px;
+     margin-left: 100px;     
+      }
+ 
+      
+
+input[type=text] {
+    width: 100%;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+ .rf{
+    font-family: verdana;
+    font-size: 45px;
+    color:white;
+	position:relative;
+	bottom:100px;
+	
+}
+
+ .bus{
+	  position:relative;
+	  right:450px;
+ }
+ 
+  .mainmenu{
+	   position:relative;
+	   top:120px;
+  }
+ #hbus{
+  position:relative;
+  left:1000px;
+   } 
+
+ nav li{
+  text-decoration:none;
+   display: inline;
+  font-size: 40px;
+  font-color: white;
+  position: relative;
+  bottom: 500px;
+  right: 55px;
+   }
+
+ nav li a{
+ text-decoration:none;
+  color: white;
+}
+
+ nav li a:hover{
+  font-size: 50px;
+  color:red;
+   }
+
+   nav1 li{
+  text-decoration:none;
+  display: inline;
+  font-size: 40px;
+  font-color: white;
+  position: relative;
+  bottom: 30px;
+  right: 55px;
+   }
+
+ nav1 li a{
+ text-decoration:none;
+  color: white;
+}
+
+ nav1 li a:hover{
+  font-size: 50px;
+  color:red;
+   }
+   
+ .others{
+    position:relative;
+    left:600px;
+ }	
+ 
+ .others1{
+	  position:relative;
+	  top:300px;
+ }
+
+#van li{
+position:relative;
+bottom:250px;
+	}
+
+#van ul li a{
+text-decoration:none;
+padding: 1px;
+
+margin-bottom: 30px;
+color: white;
+font-size: 40px;
+}
+
+#van ul li a:hover{
+background-color: green;
+font-size:45px;
+}
+
+
+
+#stock{
+ color:white;
+ border: 1px solid white;
+  padding: 50px;
+  margin-right: 200px;
+  position:relative;
+  left: 200px;
+  bottom: 250px;
+ font-size: 35px;
+}
+ 
+#admin{
+  position:right;
+  left:450px;
+   }
+	
+
+ #me{
+    font-family: verdana;
+    font-size: 30px;
+    color:white;
+}
+ #news{
+     font-family: verdana;
+     position:relative;
+     left: 500px;
+     top: 30px;
+     margin-right: 500px;
+     padding: 100px;
+     font-size: 30px;
+     color:white;
+     border: 1px solid white;
+}
+
+  #reser{
+   color:white;
+   font-size: 25px;
+   position:relative;
+    bottom: 250px;
+   animation: blink 1s step-start 0s infinite;
+   }
+
+  #te{
+	text-decoration:none;  
+    color:white;
+	display:inline
+	font-style:verdana;
+    font-size: 40px; 
+    position:relative;
+    bottom:110px;
+    left:60px;
+     }
+	 
+    
+
+ .uform{
+    border: 0.0025px solid white;
+    color:white;
+    margin-right: 300px;
+    margin-left: 110px;
+    border-radius: 14%;
+    position:relative;
+    bottom:60px;
+    font-size: 35px;
+     }
+   
+   .uuform{
+      position:relative;
+      left: 200px;
+      margin-right:300px;
+        }
+ 
+   .submit{
+      margin-right:300px;
+       }
+  
+   .submit a hover{
+      color:black;
+       }
+   
+  #mfo{
+    text-size:5px;
+     }
+
+   select{
+      width:200px;
+     height: 40px;
+     font-size:25px;
+     }
+               
+  input{
+    width:200px;
+    height: 25px;
+     }
+   
+   .submit{
+     font-size:50px;
+      position:relative;
+       left: 240px;
+      }
+
+  .date{
+    width:30px;
+    heigh: 45px;
+     }
+  .mfo{
+    postion:relative;
+     right:200px;
+     }
+   
+
+  #from{
+   color:white;
+    }
+
+   .eform{
+    border: 0.25px solid white;
+    border-radius: 14%;
+    margin-right: 900px;
+    color:white;
+    position:relative;
+    left:350px;
+    font-size:20px;
+    }
+
+   
+   
+  #etl{
+     position:relative;
+     left:90px;
+
+
+   .subm{
+       position:relative;
+      left:700px;
+       margin-left: 100px;
+      }
+
+  .active{
+      color: blue;
+      font-size:45px;
+     }
+
+ 
+
+  .aru a{
+     position: relative;
+     left: 200px;
+     color: white;
+      }
+
+   table, td {
+   border: 1px solid #000000;
+    }
+	  
+		 
+    
+ 
+   
